@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "ShytanApp",
+    "slug": "ShytanApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,9 +21,11 @@
     },
     "android": {
       "adaptiveIcon": {
+        
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sayantani.ShytanApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
